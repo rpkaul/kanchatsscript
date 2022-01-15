@@ -18,12 +18,6 @@ git clone https://github.com/rpkaul/TS3Server.git
 cd TS3Server
 ```
 
-## Change the user variables if necessary
-
-```bash
-nano ts3server.sh
-```
-
 ## Make the script executable
                                        
 ```bash
