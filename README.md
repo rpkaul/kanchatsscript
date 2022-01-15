@@ -14,7 +14,7 @@
 
 ## Download the script
 ```bash
-git clone https://github.com/rpkaul/TS3Server.git
+git clone https://github.com/rpkaul/kanchatsscript.git
 cd TS3Server
 ```
 
