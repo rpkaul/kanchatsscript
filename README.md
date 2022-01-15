@@ -14,7 +14,7 @@
 
 ## Download the script
 ```bash
-git clone https://github.com/dancheff/TS3Server.git
+git clone https://github.com/rpkaul/TS3Server.git
 cd TS3Server
 ```
 
@@ -41,6 +41,3 @@ chmod a+x ts3server.sh
 ```bash
 systemctl {start|stop|restart|status} ts3server
 ```
-
-## Bugs & Issues
-Please feel free to report any bugs or issues to us, email to: valentin@dancheff.com or [open issue](http://github.com/dancheff/TS3Server/issues) on Github.
