@@ -15,7 +15,7 @@
 ## Download the script
 ```bash
 git clone https://github.com/rpkaul/kanchatsscript.git
-cd TS3Server
+cd kanchatsscript
 ```
 
 ## Make the script executable
