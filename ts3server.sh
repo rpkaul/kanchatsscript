@@ -124,6 +124,6 @@ echo "$IMPORTANT" > "$TS3_DIR"/ServerAdmin_Privilege_Key.txt # save the ServerAd
 echo -e "\nServerAdmin info saved to: $TS3_DIR/ServerAdmin_Privilege_Key.txt"
 echo -e "ServerAdmin Privilege Key: $IMPORTANT\n"
 echo -e "Completed! You should probably configure the server now\nUse the desktop client for easy administration\n"
-echo -e "Your servers external IP Address is: $EXTERNAL_IP\n"
+echo -e "Your servers external(TeamSpeak Server) IP Address is: $EXTERNAL_IP\n"
 exit 0
  
